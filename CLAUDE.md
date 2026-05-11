@@ -15,7 +15,7 @@ git submodule update --init --recursive
 ```
 
 Two submodules:
-- `uBlock/` — gorhill/uBlock source tree; the real codebase
+- `uBlock/` — points at **`davmlaw/uBlock`** (a fork of `gorhill/uBlock`), tracking branch `they-live`. This is where the They Live cosmetic-replacement code lives. `upstream` remote in the submodule points at `gorhill/uBlock` for rebasing.
 - `publish-extension/` — store-publishing tooling used by the top-level `Makefile`
 
 A checkout without submodules initialized cannot build anything.
