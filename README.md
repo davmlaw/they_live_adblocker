@@ -8,6 +8,9 @@ Each blocked ad gets a single phrase, picked at random from the list.
 
 The idea is from a blog post I wrote in 2015 (and never got around to building): [_They Live adblock mode_](https://proceduralgraphics.blogspot.com/2015/04/they-live-adblock-mode.html).
 
+<img width="790" height="798" alt="reddit_screenshot" src="https://github.com/user-attachments/assets/908b6602-078a-4d78-abc0-9ca13e22d62e" />
+
+
 ## Install
 
 Download the latest **`uBOLite_theylive.chromium.zip`** from the [Releases page](https://github.com/davmlaw/they_live_adblocker/releases), extract it, then in Chromium / Chrome / Brave / Edge:
